@@ -1,6 +1,7 @@
 # Nike-sales-analysis
 
-![alt text]<img width="940" height="358" alt="Screenshot 2025-09-30 061717" src="https://github.com/user-attachments/assets/0d6f3ae1-d3a0-4592-a530-4ce9be95328e" />
+![alt text] <img width="936" height="356" alt="Nike sales analysis dashboard" src="https://github.com/user-attachments/assets/dce276ab-bce9-4a10-9083-bd0425ed4ffc" />
+
 
 📊 **_Nike Sales Analysis Report_**
 
@@ -85,9 +86,8 @@ Delhi leads with ₹638,400.44 revenue.
 
 Bangalore + Bengaluru combined ≈ ₹641,000+.
 
-Hyderabad/Hyd combined ≈ ₹175,000+ → weaker performance.
-
-Regional data contains duplicates (e.g., “Hyd” and “Hyderabad”), suggesting data standardization issues.
+Bengaluru ≈ ₹304,706.86 → weaker performance.
+<img width="936" height="356" alt="Nike sales analysis dashboard" src="https://github.com/user-attachments/assets/89bc6b16-bb25-49a6-89c0-30976f7dc4ff" />
 
 5. KPIs Snapshot
 
@@ -115,7 +115,7 @@ Capitalize on Lifestyle and Soccer, which dominate revenue.
 
 **_Regional Expansion_**
 
-Focus marketing in Delhi and Bangalore, while exploring growth strategies for underperforming regions like Hyderabad.
+Focus marketing in Delhi and Bangalore, while exploring growth strategies for underperforming regions like Bengaluru.
 
 **_Customer Segmentation_**
 
